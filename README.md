@@ -1,4 +1,4 @@
 # shreyashdemo
 This is my First Git Repository.
 <br>
-Author: Shreyash Gadekar
+Author: Shreyash (Kishor Gadekar)
